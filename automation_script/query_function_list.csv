@@ -1,0 +1,7 @@
+Class Name,Function Name
+template_nonexported_class,nonexported_class_func_1
+template_nonexported_class,nonexported_class_func_2
+,global_exported
+template_exported_class,exported_class_func_1
+template_exported_class,exported_class_func_2
+,global_nonexported
